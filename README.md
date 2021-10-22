@@ -1,6 +1,4 @@
-## Um pouco sobre mim 🤗
-
-- 📖 Estudando React.js, React Native, Node e Typescript
+## Olá seja muito bem vindo! 🤗
 
 <div>
   <a href="https://github.com/Pdezin">
