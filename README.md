@@ -2,7 +2,7 @@
 
 - 📖 Estudando React.js, React Native, Node e Typescript
 - 💼 Atualmente em busca de oportunidades
-- 🚀 Faz quase um ano que embarquei neste mundo da programação
+- 🚀 Faz mais de um ano que embarquei neste mundo da programação
 
 <div>
   <a href="https://github.com/Pdezin">
