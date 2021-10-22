@@ -1,4 +1,4 @@
-## Olá seja muito bem vindo! 🤗
+## Olá! Seja muito bem vindo 🤗
 
 <div>
   <a href="https://github.com/Pdezin">
